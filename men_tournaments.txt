@@ -1,51 +1,6 @@
 {
   "tournaments": [
     {
-      "id": "sr:tournament:620",
-      "name": "Hopman Cup",
-      "sport": {
-        "id": "sr:sport:5",
-        "name": "Tennis"
-      },
-      "category": {
-        "id": "sr:category:181",
-        "name": "Hopman Cup"
-      },
-      "current_season": {
-        "id": "sr:season:60024",
-        "name": "Hopman Cup 2019",
-        "start_date": "2018-12-29",
-        "end_date": "2019-01-06",
-        "year": "2019"
-      },
-      "type": "mixed",
-      "gender": "mixed",
-      "country_format": true
-    },
-    {
-      "id": "sr:tournament:660",
-      "name": "World Team Cup",
-      "sport": {
-        "id": "sr:sport:5",
-        "name": "Tennis"
-      },
-      "category": {
-        "id": "sr:category:3",
-        "name": "ATP",
-        "level": "atp_250"
-      },
-      "current_season": {
-        "id": "sr:season:4584",
-        "name": "World Team Cup 2012",
-        "start_date": "2012-05-20",
-        "end_date": "2012-05-27",
-        "year": "2012"
-      },
-      "type": "mixed",
-      "gender": "men",
-      "country_format": true
-    },
-    {
       "id": "sr:tournament:990",
       "name": "ATP Challenger Tour Finals",
       "parent_id": "sr:tournament:6239",
@@ -66,28 +21,6 @@
       },
       "type": "singles",
       "gender": "men"
-    },
-    {
-      "id": "sr:tournament:2100",
-      "name": "Davis Cup",
-      "sport": {
-        "id": "sr:sport:5",
-        "name": "Tennis"
-      },
-      "category": {
-        "id": "sr:category:76",
-        "name": "Davis Cup"
-      },
-      "current_season": {
-        "id": "sr:season:62057",
-        "name": "Davis Cup 2019",
-        "start_date": "2019-02-01",
-        "end_date": "2019-11-24",
-        "year": "2019"
-      },
-      "type": "mixed",
-      "gender": "men",
-      "country_format": true
     },
     {
       "id": "sr:tournament:2555",
@@ -7411,27 +7344,6 @@
       },
       "type": "singles",
       "gender": "men"
-    },
-    {
-      "id": "sr:tournament:12229",
-      "name": "IPTL",
-      "sport": {
-        "id": "sr:sport:5",
-        "name": "Tennis"
-      },
-      "category": {
-        "id": "sr:category:1012",
-        "name": "IPTL"
-      },
-      "current_season": {
-        "id": "sr:season:36342",
-        "name": "IPTL 2016",
-        "start_date": "2016-12-02",
-        "end_date": "2016-12-11",
-        "year": "2016"
-      },
-      "type": "singles",
-      "gender": "mixed"
     },
     {
       "id": "sr:tournament:12241",

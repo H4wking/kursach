@@ -11,6 +11,7 @@ def get_json(source):
     return json_data
 
 
-# json_data = get_json("/tennis-t2/en/tournaments/sr:tournament:609/schedule.json?api_key=8vfgwpuch3rpnauqm9cbzp7d")
-# json_data = json.dumps(json_data, indent=2)
-# print(json_data)
+if __name__ == "__main__":
+    json_data = get_json("/tennis-t2/en/matches/sr:match:8470986/summary.json?api_key=8vfgwpuch3rpnauqm9cbzp7d")
+    json_data = json.dumps(json_data, indent=2)
+    print(json_data)
